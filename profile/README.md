@@ -22,7 +22,7 @@ We care less about following trends and more about understanding problems deeply
 <table>
 <tr>
 <td valign="top">
-<img src="https://raw.githubusercontent.com/resonaut/SubSync-Echo/master/resources/subsync.svg" width="56" height="56" align="left" alt="SubSync Echo icon">
+<img src="https://raw.githubusercontent.com/resonaut/SubSync-Echo/master/resources/subsync.svg" width="40" height="40" align="left" alt="SubSync Echo icon">
 &nbsp;&nbsp;<a href="https://github.com/resonaut/SubSync-Echo"><b>SubSync Echo</b></a><br>
 &nbsp;&nbsp;<sub>C++ · Python · Whisper</sub>
 <br clear="left">
