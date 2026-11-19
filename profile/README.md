@@ -22,10 +22,7 @@ We care less about following trends and more about understanding problems deeply
 <table>
 <tr>
 <td valign="top">
-<img src="https://raw.githubusercontent.com/resonaut/SubSync-Echo/master/resources/subsync.svg" width="40" height="40" align="left" alt="SubSync Echo icon">
-&nbsp;&nbsp;<a href="https://github.com/resonaut/SubSync-Echo"><b>SubSync Echo</b></a><br>
-&nbsp;&nbsp;<sub>C++ · Python · Whisper</sub>
-<br clear="left">
+<img src="https://raw.githubusercontent.com/resonaut/SubSync-Echo/master/resources/subsync.svg" width="40" height="40" align="absmiddle" alt="SubSync Echo icon">&nbsp;&nbsp;<a href="https://github.com/resonaut/SubSync-Echo"><b>SubSync Echo</b></a>&nbsp;&nbsp;<sub>C++ · Python · Whisper</sub>
 <p>Syncs subtitles to the speech in a video, in almost any language, fully offline. It listens to the dialogue with Whisper, translates when the subtitles and the audio are in different languages, and moves every line to the moment it's spoken. Runs on Windows and Linux, no graphics card needed.</p>
 <sub>Continues <a href="https://github.com/sc0ty/subsync">SubSync</a> by Mike Szymaniak, which is no longer maintained.</sub>
 </td>
