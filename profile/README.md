@@ -1,9 +1,5 @@
 ![Resonaut. Curiosity follows the signal. An independent software workshop exploring ideas, engineering solutions, and building tools for problems worth solving.](../assets/resonaut-banner.png)
 
-<p align="center"><a href="https://github.com/resonaut/SubSync-Echo">Explore our work</a> · <a href="https://github.com/resonaut/SubSync-Echo/issues">Report a problem</a></p>
-
----
-
 ## About Resonaut
 
 Resonaut is an independent software workshop built around a simple idea: useful software starts with asking better questions and refusing to stop at the obvious answer.
@@ -23,19 +19,18 @@ We care less about following trends and more about understanding problems deeply
 
 ## Projects
 
-### [SubSync Echo](https://github.com/resonaut/SubSync-Echo)
-
-Speech-assisted subtitle synchronization for Windows and Linux.
-
-SubSync Echo uses speech recognition and translation to synchronize subtitles against actual dialogue, including cases where traditional synchronization approaches struggle.
-
-It is designed to work locally, without requiring a GPU or uploading your media.
-
-**Built around:** Python · C++ · Whisper · Speech Processing · Offline Computing
-
-SubSync Echo continues [SubSync](https://github.com/sc0ty/subsync) by Mike Szymaniak, which is no longer maintained.
-
-[Explore SubSync Echo →](https://github.com/resonaut/SubSync-Echo)
+<table>
+<tr>
+<td valign="top">
+<img src="https://raw.githubusercontent.com/resonaut/SubSync-Echo/master/resources/subsync.svg" width="56" height="56" align="left" alt="SubSync Echo icon">
+&nbsp;&nbsp;<a href="https://github.com/resonaut/SubSync-Echo"><b>SubSync Echo</b></a><br>
+&nbsp;&nbsp;<sub>C++ · Python · Whisper</sub>
+<br clear="left">
+<p>Syncs subtitles to the speech in a video, in almost any language, fully offline. It listens to the dialogue with Whisper, translates when the subtitles and the audio are in different languages, and moves every line to the moment it's spoken. Runs on Windows and Linux, no graphics card needed.</p>
+<sub>Continues <a href="https://github.com/sc0ty/subsync">SubSync</a> by Mike Szymaniak, which is no longer maintained.</sub>
+</td>
+</tr>
+</table>
 
 ---
 
