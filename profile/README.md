@@ -1,4 +1,4 @@
-![Resonaut. Curiosity follows the signal. An independent software workshop exploring ideas, engineering solutions, and building tools for problems worth solving.](./assets/resonaut-banner.png)
+![Resonaut. Curiosity follows the signal. An independent software workshop exploring ideas, engineering solutions, and building tools for problems worth solving.](../assets/resonaut-banner.png)
 
 <p align="center"><a href="https://github.com/resonaut/SubSync-Echo">Explore our work</a> · <a href="https://github.com/resonaut/SubSync-Echo/issues">Report a problem</a></p>
 
